@@ -10,7 +10,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>
-                https://raw.githubusercontent.com/alihassan143/portal_xml/main/release_notes.html
+                https://htmlpreview.github.io/?https://github.com/alihassan143/portal_xml/blob/main/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
             <enclosure url="https://github.com/alihassan143/portal_xml/blob/main/attendace_app-1.0.15+1-macos.zip"
