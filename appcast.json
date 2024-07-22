@@ -1,4 +1,10 @@
 {
-"macos":"1.0.16",
-"windows":"1.0.16"
+"macos":{
+"version":"1.0.16",
+  "url":""
+},
+"windows":{
+"version":"1.0.16",
+  "url":""
+}
 }
