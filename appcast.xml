@@ -34,5 +34,19 @@
                       length="0"
                       type="application/octet-stream" />
         </item>
+           <item>
+            <title>Version 1.0.15</title>
+            <sparkle:version>1</sparkle:version> <!-- Previous version number -->
+            <sparkle:shortVersionString>1.0.15</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>
+                 https://htmlpreview.github.io/?https://github.com/alihassan143/portal_xml/blob/main/release_notes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 16 Jun 2024 12:00:00 +0800</pubDate> <!-- Corrected date -->
+            <enclosure url="https://github.com/alihassan143/portal_xml/raw/main/attendace_app-1.0.15+1-windows-setup.exe"
+                      sparkle:edSignature="MDwCHEizLRjeKPKbEO8HPs/Hu+dTidQkNMNVedmPd3YCHAorS2ov7Kk28UcVFffgfhgOanVK97VM4ArVm2rAba7bE="
+                      sparkle:os="windows"
+                      length="0"
+                      type="application/octet-stream" />
+        </item>
     </channel>
 </rss>
