@@ -30,6 +30,7 @@
             <pubDate>Sun, 16 Jun 2024 12:00:00 +0800</pubDate> <!-- Corrected date -->
             <enclosure url="https://github.com/alihassan143/portal_xml/raw/main/attendace_app-1.0.16+1-windows-setup.exe"
                       sparkle:dsaSignature="MDwCHEizLRjeKPKbEO8HPs/Hu+dTidQkNMNVedmPd3YCHAorS2ov7Kk28UcVFOanVK97VM4ArVm2rAba7bE="
+                     sparkle:version="1.0.16"
                       sparkle:os="windows"
                       length="0"
                       type="application/octet-stream" />
