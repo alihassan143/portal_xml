@@ -21,16 +21,16 @@
         </item>
 
         <item>
-            <title>Version 1.0.16</title>
+            <title>Version 1.0.16+1</title>
             <sparkle:version>1</sparkle:version> <!-- Previous version number -->
-            <sparkle:shortVersionString>1.0.16</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.16+1</sparkle:shortVersionString>
             <sparkle:releaseNotesLink>
                  https://htmlpreview.github.io/?https://github.com/alihassan143/portal_xml/blob/main/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 16 Jun 2024 12:00:00 +0800</pubDate> <!-- Corrected date -->
             <enclosure url="https://github.com/alihassan143/portal_xml/raw/main/attendace_app-1.0.16+1-windows-setup.exe"
                       sparkle:dsaSignature="MDwCHEizLRjeKPKbEO8HPs/Hu+dTidQkNMNVedmPd3YCHAorS2ov7Kk28UcVFOanVK97VM4ArVm2rAba7bE="
-                     sparkle:version="1.0.16"
+                     sparkle:version="1.0.16+1"
                       sparkle:os="windows"
                       length="0"
                       type="application/octet-stream" />
