@@ -1,10 +1,10 @@
 {
   "macos": {
-    "version": "1.0.17",
+    "version": "1.0.18",
     "url": "https://github.com/alihassan143/portal_xml/raw/refs/heads/main/portalapp.dmg"
   },
   "windows": {
-    "version": "1.0.17",
+    "version": "1.0.18",
     "url": "https://github.com/alihassan143/portal_xml/raw/refs/heads/main/attendace_app-1.0.18+1-windows-setup.exe"
   },
   "linux": {
