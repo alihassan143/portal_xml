@@ -8,7 +8,7 @@
     "url": "https://github.com/alihassan143/portal_xml/raw/refs/heads/main/attendace_app-1.0.23+1-windows-setup.exe"
   },
   "linux": {
-    "version": "1.0.22",
+    "version": "1.0.23",
     "url": "https://github.com/alihassan143/portal_xml/raw/refs/heads/main/attendace_app.run"
   }
 }
