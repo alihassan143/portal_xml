@@ -1,12 +1,14 @@
-
 {
-  "macos":{
-    "version":"1.0.31",
-    "url":""
-    
+  "macos": {
+    "version": "1.0.31",
+    "url": ""
   },
-  "windows":{   "version":"1.0.31",
-    "url":""},
-  "linux":{   "version":"1.0.31",
-    "url":""}
+  "windows": {
+    "version": "1.0.31",
+    "url": ""
+  },
+  "linux": {
+    "version": "1.0.31",
+    "url": ""
+  }
 }
